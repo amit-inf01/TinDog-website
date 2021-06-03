@@ -1,0 +1,209 @@
+body {
+  font-family: Montserrat;
+}
+h1 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  color: white;
+}
+h2 {
+  line-height: 2;
+  font-weight: bold;
+}
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px;
+}
+
+#title {
+  background-color: #ef8172;
+}
+
+.container-fluid {
+  padding: 2% 15%;
+}
+
+img {
+  padding-top: 30px;
+}
+
+nav {
+  font-size: 1.45rem;
+  padding-left: 0;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.btn {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.navbar {
+  padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding-left: 40px;
+}
+
+.phone {
+  transform: rotate(25deg);
+  position: absolute;
+  width: 50%;
+  right: 20%;
+}
+
+
+
+
+
+
+.r {
+  padding-top: 120px;
+}
+
+.f {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-bottom: 100px;
+}
+
+.fas {
+  font-size: 100px;
+  color: #ef8172;
+}
+
+.far {
+  font-size: 100px;
+  color: #ef8172;
+}
+
+.fas:hover {
+  color: #ff4c68;
+}
+
+.far:hover {
+  color: #ff4c68;
+}
+
+
+
+p {
+  color: #8f8f8f;
+}
+
+#features {
+  position: relative;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#testimonials {
+  background-color: #ef8172;
+  color: white;
+  font-family: Montserrat-bold;
+  text-align: center;
+  line-height: 2;
+}
+
+.dog {
+  width: 20%;
+  border-radius: 100%;
+  padding: 10px;
+}
+
+
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 3%;
+}
+
+.logo {
+  width: 15%;
+  padding: 2%;
+  padding-top: 0;
+}
+
+.btn1 {
+  color: black;
+  font-family: monospace;
+  border-color: black;
+  margin: 5%
+}
+
+.btn2 {
+  background-color: dark;
+  font-family: monospace;
+  border-color: white;
+  margin: 5%
+}
+
+.a {
+  padding: 3%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+@media (max-width:1140px) {
+  .container-fluid {
+    text-align: center;
+  }
+
+  .phone {
+    position: static;
+    width: 60%;
+    padding-bottom: 5%;
+    transform: rotate(0);
+  }
+}
+
+#cta {
+  background-color: #ef8172;
+  color: white;
+  text-align: center;
+  padding: 5%;
+  font-family: "Montserrat";
+}
+
+.last {
+  font-size: 1.7rem;
+  font-weight: 1000;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2%;
+}
+
+#footer {
+  text-align: center;
+  color: grey;
+  padding: 2%;
+}
+
+.fa {
+  color: black;
+  padding: 10px;
+}
